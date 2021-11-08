@@ -1,0 +1,5 @@
+1 LET A 4
+2 LET B 8
+3 DIV B A
+4 PRINT B
+5 .
